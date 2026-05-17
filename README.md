@@ -31,7 +31,6 @@ Chức năng chính:
 
 File cài đặt:
 https://github.com/thanducha01/Phan-mem-dieu-khien-Poly-G7500/releases
-
 - `Poly G7500 Touch Panel-Setup-4.0.0.exe`
 
 
